@@ -5,4 +5,4 @@ public class Eitan{
 			System.out.println("if i go greed i will die");
 		}
 	}
-}
+}/
